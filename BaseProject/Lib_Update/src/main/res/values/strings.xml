@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Update</string>
+    <string name="pack_build_config_name">com.lianni.mall.BuildConfig</string>
+
+    <string name="str_find_new_version">发现新版本</string>
+    <string name="str_update">更新</string>
+    <string name="str_start_update">开始下载新版本..</string>
+    <string name="str_down_load_failed">下载失败</string>
+    <string name="str_down_load_cancel">下载已取消</string>
+    <string name="str_down_load_success">下载完毕</string>
+</resources>

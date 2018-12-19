@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--DataBindBaseAdapter用的tag-->
+    <item name="dataBindingBaseAdapterTag" type="id"/>
+    <!--PagerAdapterBinding的ID-->
+    <item name="pager_adapter_binding" type="id"/>
+    <item name="item_object" type="id"/>
+    <item name="item_position" type="id"/>
+    <item name="databinding_holder" type="id"/>
+    <item name="databinding_binding" type="id"/>
+</resources>
